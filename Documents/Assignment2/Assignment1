@@ -16,3 +16,4 @@ else
  echo "odd Fibonacci sequence: + $a">>odd.txt 
 fi
 done
+Rajasekhara Reddy
