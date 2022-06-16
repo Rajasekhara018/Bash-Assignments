@@ -13,7 +13,9 @@ if [[ "$lastname" =~ [^a-zA-Z] ]]
 then
     echo "inValid"
 else
-    echo "valid"
+    echo "valid"https://github.com/Rajasekhara018/Bash-Assignments.git
 fi
    echo "$firstname.$lastname"
    echo "$firstname.$lastname"|sha1sum
+   hjkdkjfoijk
+   
